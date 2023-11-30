@@ -1,10 +1,10 @@
-                                                                                           # Lap Week tuan 7
+                                                                                ## Lap Week tuan 7
 
-![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/190c51d6-fb79-48dd-97ea-9d9235c137ef)
-
+![image](https://github.com/NguyenGiaHy123/20008341_labweektuan7_NguyengGiaHy/assets/89922176/93692653-2f6b-48dd-bce8-0d1d7a2401d7)
 # Bài tập sử dụng java bên phía backend còn fontend dùng framework reactjs của javascript để xây dựng giao diện 
 ### Hình ảnh mô hình cơ sở dữ liệu 
-![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/ff0e08d5-fa6a-43f8-8fed-a43a1868f3c6)
+![image](https://github.com/NguyenGiaHy123/20008341_labweektuan7_NguyengGiaHy/assets/89922176/8c7741e1-f39a-411f-bd92-c96bb7b52058)
+
 ### chức năng đặng ký 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/9b647b7c-9772-43a5-a502-83516e932fac)
 
